@@ -1,0 +1,113 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Length 4059 >>
+stream
+0.06 0.08 0.12 rg
+BT /F2 24 Tf 48 748 Td (Tanishk Rathore) Tj ET
+0 0.48 0.66 rg
+BT /F2 12 Tf 48 724 Td (Full Stack Developer) Tj ET
+0.32 0.38 0.45 rg
+BT /F1 9.5 Tf 48 706 Td (India | rathoretanishk11@gmail.com | github.com/Tanishk-rathore-01) Tj ET
+0.82 0.86 0.88 RG 0.8 w 48 690 m 564 690 l S
+0.36 0.58 0.1 rg
+BT /F2 10 Tf 48 664 Td (SUMMARY) Tj ET
+0.06 0.08 0.12 rg
+BT /F1 9.5 Tf 48 648 Td (Full stack developer building polished, responsive web applications with React, TypeScript,) Tj ET
+0.06 0.08 0.12 rg
+BT /F1 9.5 Tf 48 634 Td (Tailwind CSS, Node.js, Python, Supabase, PostgreSQL, and AI tooling. Combines practical product) Tj ET
+0.06 0.08 0.12 rg
+BT /F1 9.5 Tf 48 620 Td (thinking, debugging discipline, and user-focused UI craft to ship projects that feel modern,) Tj ET
+0.06 0.08 0.12 rg
+BT /F1 9.5 Tf 48 606 Td (usable, and production-minded.) Tj ET
+0.36 0.58 0.1 rg
+BT /F2 10 Tf 48 576 Td (CORE SKILLS) Tj ET
+0.06 0.08 0.12 rg
+BT /F1 9.4 Tf 58 560 Td (- Frontend: JavaScript, TypeScript, HTML, CSS, React, Vue.js, Tailwind CSS) Tj ET
+0.06 0.08 0.12 rg
+BT /F1 9.4 Tf 58 546 Td (- Backend: Node.js, Python, REST API design, integration, validation, auth flows) Tj ET
+0.06 0.08 0.12 rg
+BT /F1 9.4 Tf 58 532 Td (- Data: PostgreSQL, Supabase, database design, query thinking, storage workflows) Tj ET
+0.06 0.08 0.12 rg
+BT /F1 9.4 Tf 58 518 Td (- Delivery: GitHub, Vercel, debugging, problem solving, AI tooling, prompt workflows) Tj ET
+0.36 0.58 0.1 rg
+BT /F2 10 Tf 48 496 Td (FEATURED PROJECTS) Tj ET
+0.06 0.08 0.12 rg
+BT /F2 9.8 Tf 58 478 Td (EventraHQ) Tj ET
+0.32 0.38 0.45 rg
+BT /F1 8.8 Tf 70 465 Td (Multi-tenant event operations SaaS with publishing, registrations, Razorpay test payments,) Tj ET
+0.32 0.38 0.45 rg
+BT /F1 8.8 Tf 70 452.6 Td (QR check-in, organization roles, audit records, async jobs, and Supabase/PostgreSQL security) Tj ET
+0.32 0.38 0.45 rg
+BT /F1 8.8 Tf 70 440.2 Td (boundaries.) Tj ET
+0.06 0.08 0.12 rg
+BT /F2 9.8 Tf 58 419.8 Td (PrepPilot / AI-Career-Forge) Tj ET
+0.32 0.38 0.45 rg
+BT /F1 8.8 Tf 70 406.8 Td (AI career prep platform for mock interviews, readiness scoring, salary negotiation practice,) Tj ET
+0.32 0.38 0.45 rg
+BT /F1 8.8 Tf 70 394.40000000000003 Td (resume matching, dashboards, auth, validation, and provider fallback logic.) Tj ET
+0.06 0.08 0.12 rg
+BT /F2 9.8 Tf 58 374 Td (Apex Health Care) Tj ET
+0.32 0.38 0.45 rg
+BT /F1 8.8 Tf 70 361 Td (India-focused hospital management system with patient records, appointments, medical) Tj ET
+0.32 0.38 0.45 rg
+BT /F1 8.8 Tf 70 348.6 Td (records, billing, pharmacy, reports, protected access, Supabase, charts, and typed) Tj ET
+0.32 0.38 0.45 rg
+BT /F1 8.8 Tf 70 336.2 Td (workflows.) Tj ET
+0.06 0.08 0.12 rg
+BT /F2 9.8 Tf 58 315.8 Td (Cafe Au Latte) Tj ET
+0.32 0.38 0.45 rg
+BT /F1 8.8 Tf 70 302.8 Td (Premium responsive cafe landing page with editorial layout, motion, menu filtering,) Tj ET
+0.32 0.38 0.45 rg
+BT /F1 8.8 Tf 70 290.40000000000003 Td (reservation dialog, accessibility support, and responsive design QA.) Tj ET
+0.06 0.08 0.12 rg
+BT /F2 9.8 Tf 58 270 Td (VYOM Veloce) Tj ET
+0.32 0.38 0.45 rg
+BT /F1 8.8 Tf 70 257 Td (Luxury vehicle marketplace with curated inventory, seller onboarding, modification studio,) Tj ET
+0.32 0.38 0.45 rg
+BT /F1 8.8 Tf 70 244.6 Td (admin dashboard, Supabase auth, and Razorpay booking flow.) Tj ET
+0.36 0.58 0.1 rg
+BT /F2 10 Tf 48 224.2 Td (EXPERIENCE) Tj ET
+0.06 0.08 0.12 rg
+BT /F2 9.8 Tf 58 208.2 Td (HR Recruiter | 3 months) Tj ET
+0.32 0.38 0.45 rg
+BT /F1 8.8 Tf 70 194.2 Td (Built communication, candidate-screening, follow-up, and hiring-process awareness that) Tj ET
+0.32 0.38 0.45 rg
+BT /F1 8.8 Tf 70 181.79999999999998 Td (supports recruiter-friendly product thinking.) Tj ET
+0.36 0.58 0.1 rg
+BT /F2 10 Tf 48 155.39999999999998 Td (EDUCATION) Tj ET
+0.06 0.08 0.12 rg
+BT /F1 9.4 Tf 58 139.39999999999998 Td (BCA | IAMR College, Duhai, Ghaziabad, Uttar Pradesh) Tj ET
+0.06 0.08 0.12 rg
+BT /F1 9.4 Tf 58 125.39999999999998 Td (Class 10 and 12 | Presidency The International School, Bhiwadi, Alwar, Rajasthan) Tj ET
+
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000000321 00000 n 
+0000000396 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+4507
+%%EOF

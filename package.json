@@ -1,0 +1,36 @@
+{
+  "name": "tanishk-rathore-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit",
+    "validate": "npm run typecheck && npm run lint && npm run build",
+    "resume": "node scripts/generate-resume.mjs",
+    "assets": "node scripts/prepare-assets.mjs"
+  },
+  "dependencies": {
+    "lucide-react": "1.21.0",
+    "motion": "12.42.0",
+    "next": "16.2.9",
+    "react": "19.2.7",
+    "react-dom": "19.2.7"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "4.3.1",
+    "@types/node": "26.0.1",
+    "@types/react": "19.2.17",
+    "@types/react-dom": "19.2.3",
+    "eslint": "9.39.4",
+    "eslint-config-next": "16.2.9",
+    "sharp": "0.35.2",
+    "tailwindcss": "4.3.1",
+    "typescript": "6.0.3"
+  },
+  "overrides": {
+    "postcss": "^8.5.15"
+  }
+}
