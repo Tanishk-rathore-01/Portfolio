@@ -53,7 +53,7 @@ The design language draws from a dark, cinematic aesthetic with disciplined glow
 
 ## Live Preview
 
-🔗 **[View Live Portfolio →](https://tanishk-rathore-portfolio.vercel.app)**
+🔗 **[View Live Portfolio →]https://portfolio-2i7i.vercel.app/
 
 ---
 
